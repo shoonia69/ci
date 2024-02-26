@@ -27,4 +27,9 @@ Done -> Closed, Open.
 Схема workflow для типов задач `epic, task, story` выглядит следующим образом:
 ![image](https://github.com/shoonia69/ci/assets/102481493/020025c0-9c14-4958-8ec7-3d861d7c46d8)
 
+Экспорт XML файлов схем доступны по следующим ссылкам:
+[BUGS](https://github.com/shoonia69/ci/blob/main/bugs.xml)
+[OTHER](https://github.com/shoonia69/ci/blob/main/other.xml)
+
+
 
